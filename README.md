@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # NgFundamentals
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.8.
@@ -26,8 +25,3 @@ Run `ng e2e` to execute the end-to-end tests via [Protractor](http://www.protrac
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI README](https://github.com/angular/angular-cli/blob/master/README.md).
-=======
-# eventio
-A repository I made from some Angular practices I've been doing.
-The majority of it is based on Jcooper´s series of tutorials, you can find the original code here: https://github.com/jmcooper/angular-fundamentals-files
->>>>>>> 2c42023aba849d59da49612b1529b21679d75cc7
