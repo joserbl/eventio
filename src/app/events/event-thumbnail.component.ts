@@ -1,4 +1,5 @@
 import {Component, Input, Output, EventEmitter} from '@angular/core';
+import {IEvent} from './shared/event.model';
 
 @Component({
     // tslint:disable-next-line:component-selector

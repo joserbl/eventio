@@ -10,6 +10,7 @@ import { Component } from '@angular/core';
       margin-top:150px;
       font-size: 130px;
       text-align: center;
+      color: red;
     }`]
 })
 export class Error404Component {
