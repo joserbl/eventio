@@ -8,7 +8,7 @@ export class AuthService {
 // Mock current user (will be correctly implemented soon)
         this.currentUser = {
             id: 1,
-            firstName: 'string',
+            firstName: 'Papa',
             lastName: 'LastName',
             userName: 'papabless'
         };
@@ -16,6 +16,11 @@ export class AuthService {
 
     isAuthenticated() {
         return !!this.currentUser;
+    }
+
+    updateCurrentUser(firstName: string, lastName: string) {
+        this.currentUser.firstName = firstName;
+        this.currentUser.lastName = lastName;
     }
     }
 
